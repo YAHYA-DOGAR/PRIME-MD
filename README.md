@@ -1,75 +1,118 @@
-<p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
-    <h1 align="center">WASI MD V2</h1>
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
-</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-####  
-# My Awesome Project
-
-Welcome to my awesome project! Here you'll find...
-## YouTube Channel
-
-Check out my YouTube channel for tutorials and more!
-
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
-## WhatsApp Channel
-
-Join our WhatsApp channel for updates and discussions!
-
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
-## WhatsApp Support Group
-
-Join our WhatsApp support group for assistance and discussions!
-
-[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
-
-#### SETUP
-
-1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
-    <br>
-<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
-
-
-
-2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
-    <br>
-<a href='https://pair-qr-wasi-md.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
-
-
-3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
-    <br>
-<a href='https://pair-qr-wasi-md.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
-
-
-#### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/Itxxwasi/WASI-MD-V2"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
-### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
- [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
-  [`ibrahim-tech-for-help`](https://github.com/ibrahimaitech)
+<div align="center">
+ 👑<b>KEITH MD</b>👑</b>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+	   
+ 
   
+  
+  <div align="center">
+	  
+</p>
+</a>
+<h1 align="center"><b>HEY I AM MR KEITH</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Keith+is+an+active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+                       
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/10cac2ce2fbfcdcd0b6e8.jpg" alt="01" border="0" /></a>                     
+ <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐊𝐄𝐈𝐓𝐇_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇" alt="Typing SVG" /></a>
+  </p>
+	 
+  <a aria-label="Keith-md is free to use" href="https://youtube.com/@keithkeizzah" target="_blank">
+    <img alt="Keithkeizzah" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
 
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  
+## THE THREE STEPS TO MAKE THE BOT
+	
+📌 FIRST FORK THE REPO.
+
+📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
+
+📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
+
+
+NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
+EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/Keithkeizzah/KEITH-MD./fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
+        👇👇👇👇
+	
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://keithsessiongenerator-2086623d174d.herokuapp.com/)***
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
-## 𝕎𝔸ℝℕ𝕀ℕ𝔾
-- 𝘛𝘩𝘪𝘴 𝘣𝘰𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘮𝘢𝘥𝘦 𝘣𝘺 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘐𝘯𝘤.` 𝘚𝘰 𝘮𝘪𝘴𝘶𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘣𝘰𝘵 𝘮𝘪𝘨𝘩𝘵 `𝘣𝘢𝘯` 𝘺𝘰𝘶𝘳 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵!`(𝘛𝘩𝘰𝘶𝘨𝘩 𝘺𝘰𝘶𝘳 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘶𝘯𝘣𝘢𝘯𝘯𝘦𝘥 𝘰𝘯𝘭𝘺 𝘰𝘯𝘤𝘦.)
-- 𝘐 𝘢𝘮 𝘯𝘰𝘵 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘧𝘰𝘳 𝘣𝘢𝘯𝘯𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
-- 𝘜𝘴𝘦 𝘢𝘵 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯 𝘳𝘪𝘴𝘬 𝘣𝘺 𝘬𝘦𝘦𝘱𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘸𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘮𝘪𝘯𝘥.
+   𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
+
+
+    
+   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://keithsessiongenerator-2086623d174d.herokuapp.com/qr)                 
+  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+                       		 
+   
+   𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
+
+    
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Keithkeizzah/KEITH-MD.)*** 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+### Thanks To
+- [Sam Pamday](https://github.com/Sampandey001) 
+
+
+The 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+
 
 <h2 align="center">  NOTICE
 </h2>
-   
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+## 
+star repo if you like this bot✨
+##
+-if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
+
+
+* [`Keith keizzah`](https://github.com/Keithkeizzah) ***Author, Owner***
+
+* <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##
+<p align="center" >
+<a href="https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+</a>
+</p>
+<br>
+
+<a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+##
+𝐊𝐄𝐈𝐓𝐇-𝐌𝐃
+
+[![Keith tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+keith;hacker🥰)](https://github.com/keithkeizzah)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
