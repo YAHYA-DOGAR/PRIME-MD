@@ -65,7 +65,7 @@ module.exports = {
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐅𝐀𝐒𝐢𝐇-𝐔𝐑-𝐑𝐄𝐇𝐌𝐀𝐍-𝐍𝐀𝐐𝐒𝐇𝐁𝐀𝐍𝐃𝐢",
   author: process.env.PACK_AUTHER || "WASO",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝐅𝐀𝐒𝐢𝐇-𝐔𝐑-𝐑𝐄𝐇𝐌𝐀𝐍-𝐍𝐀𝐐𝐒𝐇𝐁𝐀𝐍𝐃𝐢2",
+  botname: process.env.BOT_NAME || "𝐅𝐀𝐒𝐢𝐇-𝐔𝐑-𝐑𝐄𝐇𝐌𝐀𝐍-𝐍𝐀𝐐𝐒𝐇𝐁𝐀𝐍𝐃𝐢",
   ownername: process.env.OWNER_NAME || "𝐅𝐀𝐒𝐢𝐇-𝐔𝐑-𝐑𝐄𝐇𝐌𝐀𝐍-𝐍𝐀𝐐𝐒𝐇𝐁𝐀𝐍𝐃𝐢",
   errorChat: process.env.ERROR_CHAT || "923192173398",
   KOYEB_API: process.env.KOYEB_API || "false",
