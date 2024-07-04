@@ -31,8 +31,8 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOh
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
 global.devs = "923135673658";
-global.sudo = process.env.SUDO || "923192173398";
-global.owner = process.env.OWNER_NUMBER || "923192173398";
+global.sudo = process.env.SUDO || "2349035319505";
+global.owner = process.env.OWNER_NUMBER || "2349035319505";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -47,7 +47,7 @@ global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
-global.save_status_from = process.env.SAVE_STATUS_FROM || "";
+global.save_status_from = process.env.SAVE_STATUS_FROM || "2349035319505";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 global.autoreaction = process.env.autoreaction || "true";
 
@@ -56,7 +56,7 @@ global.scan = "https://pair-qr-wasi-md.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "UH07_04_ewogICJjcmVkcy5qc29uIjogIntcbiAgXCJub2lzZUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgOTYsXG4gICAgICAgIDE2MSxcbiAgICAgICAgMTE3LFxuICAgICAgICAyMjYsXG4gICAgICAgIDk3LFxuICAgICAgICAxNDQsXG4gICAgICAgIDExLFxuICAgICAgICAyMDAsXG4gICAgICAgIDI1MyxcbiAgICAgICAgOTQsXG4gICAgICAgIDIwNCxcbiAgICAgICAgOCxcbiAgICAgICAgMjM1LFxuICAgICAgICAxNDgsXG4gICAgICAgIDg0LFxuICAgICAgICAxMjEsXG4gICAgICAgIDI1MyxcbiAgICAgICAgMzAsXG4gICAgICAgIDEsXG4gICAgICAgIDI1NCxcbiAgICAgICAgNCxcbiAgICAgICAgMTczLFxuICAgICAgICAyNDksXG4gICAgICAgIDEwMixcbiAgICAgICAgMTUsXG4gICAgICAgIDE4NyxcbiAgICAgICAgMTMwLFxuICAgICAgICAxMjIsXG4gICAgICAgIDIxOCxcbiAgICAgICAgMjI4LFxuICAgICAgICAxNTgsXG4gICAgICAgIDEyMFxuICAgICAgXVxuICAgIH0sXG4gICAgXCJwdWJsaWNcIjoge1xuICAgICAgXCJ0eXBlXCI6IFwiQnVmZmVyXCIsXG4gICAgICBcImRhdGFcIjogW1xuICAgICAgICA1MyxcbiAgICAgICAgMTk0LFxuICAgICAgICAxOTQsXG4gICAgICAgIDUzLFxuICAgICAgICA1OCxcbiAgICAgICAgMzIsXG4gICAgICAgIDg0LFxuICAgICAgICA4NSxcbiAgICAgICAgMTczLFxuICAgICAgICAxNCxcbiAgICAgICAgNTYsXG4gICAgICAgIDEzMyxcbiAgICAgICAgMTYzLFxuICAgICAgICA5MyxcbiAgICAgICAgMjksXG4gICAgICAgIDE0OSxcbiAgICAgICAgOSxcbiAgICAgICAgMTUzLFxuICAgICAgICAyNDUsXG4gICAgICAgIDE4NSxcbiAgICAgICAgNjIsXG4gICAgICAgIDI0NyxcbiAgICAgICAgMjQ5LFxuICAgICAgICA0NixcbiAgICAgICAgNzksXG4gICAgICAgIDQ5LFxuICAgICAgICAxNzcsXG4gICAgICAgIDI0NixcbiAgICAgICAgNjIsXG4gICAgICAgIDE2MCxcbiAgICAgICAgNTMsXG4gICAgICAgIDE5XG4gICAgICBdXG4gICAgfVxuICB9LFxuICBcInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyXCI6IHtcbiAgICBcInByaXZhdGVcIjoge1xuICAgICAgXCJ0eXBlXCI6IFwiQnVmZmVyXCIsXG4gICAgICBcImRhdGFcIjogW1xuICAgICAgICAxOTIsXG4gICAgICAgIDEwMSxcbiAgICAgICAgMTU4LFxuICAgICAgICA0NSxcbiAgICAgICAgMTI3LFxuICAgICAgICAxMSxcbiAgICAgICAgMzksXG4gICAgICAgIDEwNyxcbiAgICAgICAgMTY5LFxuICAgICAgICAxMjcsXG4gICAgICAgIDE3NixcbiAgICAgICAgOTMsXG4gICAgICAgIDQyLFxuICAgICAgICAyNTQsXG4gICAgICAgIDEzNixcbiAgICAgICAgMTM1LFxuICAgICAgICAxMDYsXG4gICAgICAgIDI0MyxcbiAgICAgICAgNTgsXG4gICAgICAgIDIzOSxcbiAgICAgICAgMTM4LFxuICAgICAgICAxNzYsXG4gICAgICAgCA"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
