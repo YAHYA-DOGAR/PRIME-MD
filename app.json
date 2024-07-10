@@ -1,5 +1,5 @@
 {
-  "name": "wasi-md-v2",
+  "name": "malikkhan",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "MALIK-KHAN",
       "required": true
     },
     "CAPTION" : {
@@ -106,11 +106,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "923436062975"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUdPbk9ySWhkRllLbVlNdkdmV3U3NVR2KzJRVmlNOHFndm41Qm4rcktsZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRmFmc0ZrNEljYkZPM0E4S3h5aExJQWxhbGI3S3UreWZFMEFJc0VYT0lWdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyS1IveTVRWklKSmhLa3dVVGgvVUFGcDM4VkE3dlhYZFNkcmlBVVh1dmxnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwVjQxOXk5T2FTa3lPRHY5TVhsNmVCYnZyb2M5N29oN3ZIUmpxTWNSZER3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdDMFBzclZhTnU0ZTllK2N1Yk5mQkxIYm51cnV2N3YrNVFxT1ZjYzdBa1k9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InBFKzBJbVVvVGwrT3NUVkwvaTd4aWhFR3ZjNVRrV1BLS09ma0llVlNuQm89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0l4dU56aHhFN2FocFhZZGpUcmhGNUFOR1NneG54U1VTdG9taVpUVGJIcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWlQrcDUwVTNIdTdVSVdlT2FBY3RCVmZzVlBhelpYSEVXL1B4VEtxcy8ybz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFBSDZrSFBaWXMyWkU3OWlIcjNneWRPcnhndXBRU0JPd1NBSnZ1bXZxcWg0aXpRS0tVZ0d1NmlGRitnVFk4RmxkVWE2Y2I1eFN3ZkgwOGJhVVpMdGh3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MzUsImFkdlNlY3JldEtleSI6IlRuTXBleVl0aDRwRGRsTnA0L2FjRVEra2RvL2VnYWp0WkduTzkvRTJXWHc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IlhFUjZ3eVBiUTUtX3Y5QXV0OTRLX3ciLCJwaG9uZUlkIjoiMGM3ZmE2YjUtYTc5Mi00MzhmLWJlYTAtZDQ5ZjMyYzg3ODU2IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVuMkcrSCsrcElRM2NjczNseVNPWWhIWEd6cz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRcWhqNGNFdnAwUkc3U2wxRC9jbDVqL1pDeEU9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiTTZTTExGTlIiLCJtZSI6eyJpZCI6IjkyMzQzNjA2Mjk3NTo0OEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSmF5eGFzRUVPYjl1TFFHR0FZZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiVHZFdGpCNC9qWElYQnlUWDVKU1l0K2NoSDBkWUZkL3RFbk5ndVlZdDFrYz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiVWNEODg2T2FpVWxiQlYyaW9lMHdweWU4N0JTbkRQMkYwSHZiTzUzWmxYRGJ5YXZhMHk4ZFM5UjVxOVJ5VmxwOU5YR0hxTkNBZE1KMUc2TmJqRTRnQ3c9PSIsImRldmljZVNpZ25hdHVyZSI6IkoreG8wc09FRXZqWjFNMjA0ZUpHck9Ubk5OMVBmYkhoSWlkTDBLSVJzSEhMdXBrVWVZWGg1S1VjSnJUOHArS296OCtJNlNqN0lMdWtRTWk0V1lGbGpRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTIzNDM2MDYyOTc1OjQ4QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlU3eExZd2VQNDF5RndjazErU1VtTGZuSVI5SFdCWGY3Ukp6WUxtR0xkWkgifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjA1OTgyNTksIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTFl1In0="
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
