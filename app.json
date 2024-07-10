@@ -1,5 +1,5 @@
 {
-  "name": "wasi-md-v2",
+  "name": "malikkhan",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
@@ -8,8 +8,8 @@
 
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "description": "muhammad malik khan",
+      "value": "MALIK KHAN",
       "required": true
     },
     "CAPTION" : {
@@ -43,7 +43,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "MALIKKHAN"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -106,11 +106,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "923436062975"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "malik112233"
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
