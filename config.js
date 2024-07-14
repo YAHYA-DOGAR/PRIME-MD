@@ -63,7 +63,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
   author: process.env.PACK_AUTHER || "WASO",
-  packname: process.env.PACK_NAME || "♥️",
+  packname: process.env.PACK_NAME || "cosmin",
   botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
   ownername: process.env.OWNER_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃",
   errorChat: process.env.ERROR_CHAT || "0770811929",
@@ -76,7 +76,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
   AUTOREACTION: process.env.AUTOREACTION || process.env.AUTOREACTION || "true",
   LANG: (process.env.THEME || "WASI").toUpperCase(),
 };
