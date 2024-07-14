@@ -34,11 +34,11 @@ global.devs = "0770811929";
 global.sudo = process.env.SUDO || "0770811929";
 global.owner = process.env.OWNER_NUMBER || "0770811929";
 global.style = process.env.STYLE || "3";
-global.gdbye = process.env.GOODBYE || "true";
-global.wlcm = process.env.WELCOME || "true";
+global.gdbye = process.env.GOODBYE || "false";
+global.wlcm = process.env.WELCOME || "false";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "true";
-global.disablegroup = process.env.DISABLE_GROUPS || "true",
+global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "";
 global.waPresence = process.env.WAPRESENCE || "recording";
@@ -62,7 +62,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
-  author: process.env.PACK_AUTHER || "WASO",
+  author: process.env.PACK_AUTHER || "bot",
   packname: process.env.PACK_NAME || "cosmin",
   botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
   ownername: process.env.OWNER_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃",
